@@ -11,52 +11,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *Revisit what was top-of-mind from last week. What else has emerged? What patterns, if any, are coming up for you?*
 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+How well I could focus in the important tasks and got several delayed things back on track.
 
  
 :::
@@ -69,35 +24,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *What stands out about that place? Why are you motivated to focus on this part of your workflow?*
 
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
-:::
-
+The to do lists. They seem to be my major problem most of the time, as I tend to procrastinate with the tasks I enjoy instead of doing what is most urgent and important. 
 
 ## Think of a good workflow you’ve seen. What felt good about it? 
 
@@ -107,34 +34,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *For example, what was it about how it was organized, how different people contributed, how it was communicated? Remember meetings are part of workflows too*
 
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
-
+The one minute to do list and the Eisenhower matrix, plus reproducible workflows with git and knit.
 :::
 
 ## What have you seen or heard about that has you curious? 
@@ -145,75 +45,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *What are things you’d like to learn or reuse from what you’ve seen? Think from colleagues, talks, and examples online*
 
-  
-
- 
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-  
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
-
+Quarto, effectively using version control in github.
 :::
 
 ## What are some of your values?
@@ -224,33 +56,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *Think about something you enjoy doing. What qualities about yourself do you see coming through? What is important to you personally and professionally? How do you want to make people feel?*
 
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
+I enjoy feeling in control of the situation, and the good feelings that arise when I acomplish something within the deadline.
 
 :::
 
@@ -263,32 +69,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *How do you show up in your daily life at work? For example, being on time, being organized, interacting with people.*
 
-
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
+Since I returned from parental leave I avoid interacting with people because I am working only part time. It would be good however to have a set time for interactions. The time I come to work depends on how smoothly the routine at home goes. However I feel it is better now, because I manage to work 4h most days.
 
  
 :::
@@ -302,72 +83,6 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *Think about that place that seems like a good place to focus. What if you brought what you have seen and want to learn to that place, along with your values? You can draw this*
 
-  
-
- 
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-  
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
+I should focus in organizing my schedule in a way to inlude time to prepare for meetings and have interesting discussions rather than talking like a robot, jumping from one topic to the next.   
 
 :::
