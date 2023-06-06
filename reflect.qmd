@@ -8,54 +8,8 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 *What are the conditions when you do your best work? This could be things like I write best in the mornings, I am comfortable speaking up in new spaces.*
 
 
+I am really organized and if I manage to get into focus mode, I achieve a lot in a short period of time. I am also good at problem solving.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 :::
 
 
@@ -67,33 +21,21 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Think across your different workflows. Where do you do your writing? How do you manage citations or versions? Do you take screenshots? If you analyze data or images, what do you use?*
 
+iCloud resourses to organizational matters:
+- iCloud calendar for scheduling appointments important tasks
+- iCloud reminders for creating a to do list for the day
+- iCloud pages to take notes on tasks, thoughts, etc.
+- icloud keynote for saving slides I need to access quickly in different devices.
 
-  
+PowerPoint for presentations
+Word for manuscripts
+Excel for datasets
+Notepad for quickly editing text or taking notes that will be discarded
+CorelDRAW for editing figures
+R for analysis
+Chrome for internet use and reading pdfs
+EndNote for referencing and bibliography organization
 
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
 :::
 
 ## What kinds of files do you work with? 
@@ -104,32 +46,9 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *How do you organize them? Do you download and save in folders? How do you find them?*
 
-  
+I keep files "in use" in the desktop and back them up to the server when not in use anymore.
 
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
+I try to number folders and structure them in a way to quickly find any file when I need.
 
 :::
 
@@ -141,74 +60,8 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *You can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? How do software and files connect together? You can draw this*
 
+I come to office, water the plants and organize if necessary. Then I turn on the computer and check the automatically opened chrome windows: they are sorted by order of importance. First I see what is in the 1 minute to do list, then type the daily tasks in reminders. Then check appointments in calender, check emails, check twitter popecol, nc3, sortee and my own. Then I am trying to stick to the priority tasks chosen in the 1 minute to do list. It is working well in the last days.
 
-  
-
- 
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-  
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
 :::
 
 
@@ -220,34 +73,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? Do you take screenshots? How do you find things weekly or come back to something after a month, a year?*
 
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
-
+With a one minute todo list and subsequent daily tasks list. This way I can prioritize what is really important and avoid procrastination (even if productive).
 :::
 
 ## How do you collaborate with colleagues? 
@@ -258,33 +84,8 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Who is included in your workflow? How do you share files and communicate? If you think "I work alone", consider who you talk to, how do you give and receive feedback?*
 
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
+Files are sent per email, although I use github to upload the code and data.   
+I send everything to Holger per email and sometimes he returns me with a printed version with hand-written comments.
 
 :::
 
@@ -296,33 +97,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *There are good things about your workflow. What feels good to you?*
 
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
+The avoidance of procrastination in the last weeks.
 
 :::
 
@@ -336,40 +111,8 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 *Are there places you suspect take longer than they should or could improve in other ways? Are there things you find yourself repeating a lot (copy-pasting, clicking?)*
 
 
-  
+I spend way too much time editing details of my code and figures. This probably could be improved with authomatization in the code, but I dont know how to do it.
 
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
 :::
 
 
@@ -381,72 +124,6 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *What might be a focus for the next few weeks?*
 
-  
-
- 
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-  
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
+The data management workshop.
 
 :::
